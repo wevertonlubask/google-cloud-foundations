@@ -1,5 +1,0 @@
-# Task 1. Set the default region and zone for all resources
-gcloud config set compute/zone <ZONE>
-gcloud config set compute/region <REGION>
-
-# Task 2. Create multiple web server instances
